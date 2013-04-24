@@ -1,6 +1,7 @@
 Package: autoon
 Version: 3.0
 Section: base
+Installed-Size: 33
 Priority: optional
 Architecture: all
 Depends: zenity (>= 3.4.0)

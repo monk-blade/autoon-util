@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=3.0
+Name=AutoON Utility
+Comment=Auto turn on utility
+GenericName=autoon
+Exec=/usr/bin/autoon
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Categories=GNOME;System;
